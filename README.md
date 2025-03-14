@@ -4,9 +4,10 @@
 <h1> 💫 About Me  </h1>              
         
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=35&pause=1000&color=3ABFFF&center=true&vCenter=true&random=true&width=435&lines=Passionate+Web+Developer;Creating+innovative+web+solutions;Always+learning+and+evolving)](https://git.io/typing-svg)
+
+
   
 ## Hi there 👋  
-
 I'm Hamza Jaafar, a student passionate about **programming** 💻 and **web development** 🌍.  
 
 ### 🚀 What am I up to?  
