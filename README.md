@@ -13,7 +13,7 @@ I'm Hamza Jaafar, a student passionate about **programming** 💻 and **web deve
 - 🎯 Working on improving my coding skills and building projects.  
 
 ### 📬 Let's connect!  
-- 💼 LinkedIn: hamza-jaafar
+- 💼 LinkedIn: <a href='https://linkedin.com/in/hamza-jaafar'>hamza-jaafar</a>
 - 📫 Reach me at: jrh6336@gmail.com  
 
 ⚡ **Fun fact:** I love problem-solving and always enjoy a good coding challenge!  
