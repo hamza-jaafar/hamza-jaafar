@@ -1,5 +1,19 @@
 # 💫 About Me:
-i'm corrently student
+## Hi there 👋  
+
+I'm Hamza Jaafar, a student passionate about **programming** 💻 and **web development** 🌍.  
+
+### 🚀 What am I up to?  
+- 📚 Currently learning and exploring new technologies every day.  
+- 💡 Interested in **HTML, CSS, JS, React, and backend development**.  
+- 🎯 Working on improving my coding skills and building projects.  
+
+### 📬 Let's connect!  
+- 💼 LinkedIn: hamza-jaafar
+- 📫 Reach me at: jrh6336@gmail.com  
+
+⚡ **Fun fact:** I love problem-solving and always enjoy a good coding challenge!  
+
 
 
 ## 🌐 Socials:
