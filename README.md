@@ -3,9 +3,10 @@
       
 <h1> 💫 About Me  </h1>              
         
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=35&pause=1000&color=3ABFFF&center=true&vCenter=true&random=true&width=435&lines=Passionate+Web+Developer;Creating+innovative+web+solutions;Always+learning+and+evolving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=I%27m+Hamza+Jaafar;Full-Stack+Web+Developer;Building+Clean+%26+Scalable+Web+Applications;Focused+on+Modern+Web+Technologies;Always+Learning,+Always+Improving)](https://git.io/typing-svg)
 ## Hi there 👋  
-I'm Hamza Jaafar, a student passionate about **programming** 💻 and **web development** 🌍.  
+I'm **Hamza Jaafar** | **Web Development Diploma**
+Passionate about **Programming** 💻, Building Modern Web Experiences 🌍, and Continuous Growth 🚀
 
 ### 🚀 What am I up to?  
 - 📚 Currently learning and exploring new technologies every day.  
