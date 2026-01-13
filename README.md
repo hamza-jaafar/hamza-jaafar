@@ -4,7 +4,7 @@
 <h1> 💫 About Me  </h1>              
         
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=40&pause=1000&color=D4D4D4&center=true&vCenter=true&random=true&width=450&lines=I%27m+Hamza+JAAFAR;Full-Stack+Web+Developer;Building+Clean;Scalable+Web+Applications;Modern+Web+Technologies;Always+Learning;Always+Improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=40&pause=1000&color=D4D4D4&center=true&vCenter=true&random=true&width=450&lines=I%27m+Hamza+JAAFAR;Full-Stack+Web+Developer;Scalable+Web+Applications;Modern+Web+Technologies;Always+Learning;Always+Improving)](https://git.io/typing-svg)
 
 ## Hi there 👋  
 I'm **Hamza JAAFAR** | **Web Development Diploma**
