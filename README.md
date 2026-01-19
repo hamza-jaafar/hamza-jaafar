@@ -7,11 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=40&pause=1000&color=D4D4D4&center=true&vCenter=true&random=true&width=450&lines=I%27m+Hamza+JAAFAR;Full-Stack+Web+Developer;Scalable+Web+Applications;Modern+Web+Technologies;Always+Learning;Always+Improving)](https://git.io/typing-svg)
 
 ## Hi there 👋  
-I'm **Hamza JAAFAR** | **Web Development Diploma**
+I'm **Hamza JAAFAR** | **Web Developer**
 Passionate about **Programming** 💻, Building Modern Web Experiences 🌍, and Continuous Growth 🚀
 
 ### 🚀 What am I up to?  
-- 📚 Currently learning and exploring new technologies every day.  
+- 📚 learning and exploring new technologies every day.  
 - 💡 Interested in **HTML, CSS, JS, React, and backend development**.  
 - 🎯 Working on improving my coding skills and building projects.  
 
